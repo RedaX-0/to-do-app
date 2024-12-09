@@ -9,13 +9,11 @@
 }
 
 .tswira{
-    background-image: url(backi.jpg);
+    background-color: aquamarine;
     height: max-content;
 }
 
 body{
-    background-image: url(fond-aquarelle-rose_125540-603.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: aqua;
 
 }
